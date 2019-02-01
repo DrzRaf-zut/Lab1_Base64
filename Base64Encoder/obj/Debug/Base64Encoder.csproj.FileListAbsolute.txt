@@ -1,0 +1,11 @@
+C:\Users\Rafal\Documents\Visual Studio 2017\Projects\Base64Encoder\Base64Encoder\bin\Debug\Base64Encoder.exe.config
+C:\Users\Rafal\Documents\Visual Studio 2017\Projects\Base64Encoder\Base64Encoder\bin\Debug\Base64Encoder.exe
+C:\Users\Rafal\Documents\Visual Studio 2017\Projects\Base64Encoder\Base64Encoder\bin\Debug\Base64Encoder.pdb
+C:\Users\Rafal\Documents\Visual Studio 2017\Projects\Base64Encoder\Base64Encoder\bin\Debug\ClassLibrary1.dll
+C:\Users\Rafal\Documents\Visual Studio 2017\Projects\Base64Encoder\Base64Encoder\bin\Debug\ClassLibrary1.pdb
+C:\Users\Rafal\Documents\Visual Studio 2017\Projects\Base64Encoder\Base64Encoder\obj\Debug\Base64Encoder.csprojResolveAssemblyReference.cache
+C:\Users\Rafal\Documents\Visual Studio 2017\Projects\Base64Encoder\Base64Encoder\obj\Debug\Base64Encoder.Properties.Resources.resources
+C:\Users\Rafal\Documents\Visual Studio 2017\Projects\Base64Encoder\Base64Encoder\obj\Debug\Base64Encoder.csproj.GenerateResource.Cache
+C:\Users\Rafal\Documents\Visual Studio 2017\Projects\Base64Encoder\Base64Encoder\obj\Debug\Base64Encoder.csproj.CoreCompileInputs.cache
+C:\Users\Rafal\Documents\Visual Studio 2017\Projects\Base64Encoder\Base64Encoder\obj\Debug\Base64Encoder.exe
+C:\Users\Rafal\Documents\Visual Studio 2017\Projects\Base64Encoder\Base64Encoder\obj\Debug\Base64Encoder.pdb

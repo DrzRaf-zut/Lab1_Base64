@@ -1,0 +1,6 @@
+C:\Users\Rafal\Documents\Visual Studio 2017\Projects\Base64Encoder\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Rafal\Documents\Visual Studio 2017\Projects\Base64Encoder\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Rafal\Documents\Visual Studio 2017\Projects\Base64Encoder\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\Rafal\Documents\Visual Studio 2017\Projects\Base64Encoder\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Rafal\Documents\Visual Studio 2017\Projects\Base64Encoder\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Rafal\Documents\Visual Studio 2017\Projects\Base64Encoder\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
